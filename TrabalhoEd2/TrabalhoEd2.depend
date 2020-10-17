@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\mirian queiroz\desktop\mirian\trabalhoed2\main.cpp
+	<iostream>
+
+1602952097 source:c:\users\mirian queiroz\desktop\mirian\trabalhoed2\src\author.cpp
+	"Author.h"
+
+1602953768 c:\users\mirian queiroz\desktop\mirian\trabalhoed2\include\author.h
+	<string>
+
+1602952115 source:c:\users\mirian queiroz\desktop\mirian\trabalhoed2\src\category.cpp
+	"Category.h"
+
+1602953761 c:\users\mirian queiroz\desktop\mirian\trabalhoed2\include\category.h
+	<string>
+
+1602950859 source:c:\users\mirian queiroz\desktop\mirian\trabalhoed2\src\livro.cpp
+	"Livro.h"
+
+1602953122 c:\users\mirian queiroz\desktop\mirian\trabalhoed2\include\livro.h
+	"Author.h"
+	"Category.h"
+	<string>
+
